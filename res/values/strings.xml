@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asterix</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="asterix_intro">Welcome to the world of Asterix &amp; Obelix</string>
+    <string name="detailed_intro">
+        This application displays the details
+        of all the characters present
+        in the Asterix &amp; Obelix universe</string>
+
+</resources>
